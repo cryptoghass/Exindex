@@ -1,0 +1,24 @@
+Exindex 
+
+Name: Exindex
+Ticker: EXD
+Algorithm: Scrypt
+Type: POW / POS
+Maximum money: 800,000,000
+Premine: 200,000,000
+p2p port=37775
+rpc port=37776
+Block Time: 90 seconds
+Minimum stake age: 6 hours 
+Coinbase maturity: 10 confirmations
+Max block size: 2000000
+
+POS REWARDS:
+Every block ends in 0: 150 EXD
+Every block finished in 5: 112,50 EXD
+Other blocks: 75 EXD
+
+POW REWARDS:
+Every block ends in 0: 30 EXD
+Every block finished in 5: 22,5 EXD
+Other blocks: 15 EXD
